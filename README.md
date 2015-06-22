@@ -249,3 +249,7 @@ avg / total       0.94      0.94      0.94     10000
 ##小节
 
 本文实现了one hidden layer的MLP，完善了参数更新方法。在此基础上做一个多层的MLP也是相当容易的。
+
+
+## Licence
+MIT
